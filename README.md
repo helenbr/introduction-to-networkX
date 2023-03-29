@@ -1,1 +1,1 @@
-# introduction-to-networkX
+# Introduction to NetworkX
